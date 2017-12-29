@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "local server",
+            "server": "http://LRC0A427",
+            "serverInstance": "DynamicsNAV110",
+            "authentication": "Windows",
+            "port": 11049,
+            "startupObjectId": 22
+        }
+    ]
+}
