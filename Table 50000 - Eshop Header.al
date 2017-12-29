@@ -12,7 +12,7 @@ table 50000 "Eshop Header"
         }
         field(2;"Sales Order No.";code[20])
         {
-            //TableRelation = "Sales Header";
+            //TableRelation = Customer;
         }
 
     }
